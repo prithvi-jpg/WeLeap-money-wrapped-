@@ -27,7 +27,7 @@ export default function WaitlistStory({ quizData, onReset }: Props) {
   const handleShare = async () => {
     const shareData = {
       title: 'WeLeap: Money Personality',
-      url: 'https://ai.studio/apps/c1f9f445-84e3-41bb-8340-9628a479b6ba?fullscreenApplet=true'
+      url: 'https://prithvi-jpg.github.io/WeLeap-money-wrapped-/'
     };
     try {
       if (navigator.share) {
